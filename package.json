@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/Dany0343/personalPage/issues"
   },
-  "homepage": "https://github.com/Dany0343/personalPage#readme",
-  "dependencies": {
-    "three": "^0.146.0"
-  }
+  "homepage": "https://github.com/Dany0343/personalPage#readme"
 }
